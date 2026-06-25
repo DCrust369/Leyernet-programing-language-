@@ -8,20 +8,20 @@ developed in **25/06/2026**
 
 # this is your abstractions
 ----
-**GUI** the graphical user interface
+**GUI** | the graphical user interface
 ----
-**python** your language for exemple. it's a super abstractions
+**python** | your language for exemple. it's a super abstractions
 ----
-**bash or shell or TTY or PTY or terminal or konsole or terminal emulator** screen whith commands for automation
+**bash** | or shell or TTY or PTY or terminal or konsole or terminal emulator** screen whith commands for automation
 ----
-**operational system** apps, code editors, store for exemple: fedora, debian, ubuntu, centOS, arch, freeBSD, netBSD
+**operational system** | apps, code editors, store for exemple: fedora, debian, ubuntu, centOS, arch, freeBSD, netBSD
 ----
-**kernel** this parth it's a kernel linux, NT(microsoft), XNU this parth have rust, c and assembly and this
+**kernel** | this parth it's a kernel linux, NT(microsoft), XNU this parth have rust, c and assembly and this
 parth have my programing language
 ----
-**BIOS and UEFI** dell, acer, purism have this for bootloader and this parth is assembly and c or my language
+**BIOS and UEFI** | dell, acer, purism have this for bootloader and this parth is assembly and c or my language
 ----
-**Hardware** mause, keyboard, screen, your computer, my computer, your phone, my phone
+**Hardware** | mause, keyboard, screen, your computer, my computer, your phone, my phone
 ----
 
 # The stack of the programing languages
