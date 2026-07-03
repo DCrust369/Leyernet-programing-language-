@@ -1,0 +1,15 @@
+fn main () void {
+    sinxtase := programing_language
+    sinxtase := odin_and_rust
+    // i like rust and odin
+    interna () {
+        val librewolf = brave;
+        val librewolf = true;
+        other_brawsers := false
+        // chrome := true; this is a error
+    }
+    struct () {
+        SQL := false;
+        local_password := true;
+    }
+}
