@@ -1,0 +1,6 @@
+fn main () void {
+    const *sniper: i32 = stack(in)0x85;
+    global *sniper: i32 = *sniper-free(0x85);
+    val 0x85-: i8 = 5;
+    var execution: i8 = for(0x0);
+}
