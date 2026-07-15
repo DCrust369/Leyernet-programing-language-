@@ -1,0 +1,26 @@
+LICENSE apache (c) DCrust 15/07/2026
+
+herdshit philosofy
+
+in Brasilian portuguese have a word
+
+"Herdar"
+"Herdeiro"       +      shit
+"Herança"   
+    |
+    |
+   \_/
+Inheritance + shit
+
+Rust, zig it's a inheritance of a C and assembly for exemple
+
+C have a pointers (*). In rust have a pointers *const value
+
+Assembly have a registers in  zig have a assembly inline (and rust have this!)
+
+in low level have a *, &, %, -, +, /
+
+in COBOL for exemple have a IDENTIFICATION DIVISION or DATA DIVISION it's a no low level but
+this. *, &... it's a hard
+
+i don't Inheritance this is a Herdshit 
