@@ -1,27 +1,28 @@
-const fn main () compiler {
-    .const section[. data],
+pub fn (main) !void {
+    .const section[.data],
     .const __global_start,
-
+// this is a brazilian MEME it's a saboor assembly não é assembly é saboor assembly
+// it's a flaaaavour assembly (assembly simulated!!!)
     .const __start,
-    pub fn (compiler_starter) asm {
-        : mov {rax}, 0
-        : mov {rax}, 01
-        : mov {rax}, 001
-        : mov {rax}, 0001
-        : mov {rax}, 001
-        : mov {rax}, 01
-        : mov {rax}, 1
-        : start dq 1
-        : makefile dq 01
-        : make dq 001
-        : bash dq 0001
-        : start dq 00001
-        : hexdump_minus_C dq 000001
-        : compiling__ dq 1
-        : compiling__file_whiith_makefile_whith_bash dq 010 // it's a 10
-        : mov {rax}, 1
+    asm {
+        \\\\ mov %rax, %[0]
+        \\\\ mov %rax, %[01]
+        \\\\ mov %rax, %[001]
+        \\\\ mov %rax, %[0001]
+        \\\\ mov %rax, %[001]
+        \\\\ mov %rax, %[01]
+        \\\\ mov %rax, %[1]
+        \\\\ start %dq %[1]
+        \\\\ makefile %dq [01]
+        \\\\ make %dq &[001]
+        \\\\ bash %dq &[0001]
+        \\\\ start %dq &[00001]
+        \\\\ hexdump_minus_C %dq %[000001]
+        \\\\ compiling__ %dq [1]
+        \\\\ compiling__file_whiith_makefile_whith_bash %dq [010] // it's a 10
+        \\\\ mov %rax, [1]
     }
-    .const mov {rax}, 0
-    .const mov {rdi}, 1
+    .const mov_rax_0,
+    .const mov_rdi_1,
     .const syscall,
 }
