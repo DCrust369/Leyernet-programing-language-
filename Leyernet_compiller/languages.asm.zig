@@ -1,4 +1,3 @@
-// Definindo as capacidades de injeção por linguagem
 struct InjectionConfig {
     c: bool,
     rust: bool,
@@ -6,8 +5,12 @@ struct InjectionConfig {
     assembly: bool,
     golang: bool,
     javascript: bool,
+    html: bool,
     python: bool,
-    // ... outros campos
+    Cpp: bool,
+    Java: bool,
+    Csharp: bool,
+    css: bool,
 }
 
 const CONFIG: InjectionConfig = InjectionConfig {
@@ -17,14 +20,10 @@ const CONFIG: InjectionConfig = InjectionConfig {
     assembly: true,
     golang: true,
     javascript: true,
-    python: false, // Conforme sua definição
+    html: true,
+    python: false,
+    Cpp: false,
+    Java: false,
+    Csharp: false,
+    css: true,
 };
-
-// Função principal de inicialização
-pub fn main() {
-    // Aqui viria a lógica de attach ao processo alvo
-    // Exemplo conceitual:
-    // let pid = get_target_pid();
-    // inject_code(pid, target_payload);
-}
-//
