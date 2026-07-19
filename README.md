@@ -37,6 +37,12 @@ Zig                    |  unstable in 0.16.0 for 0.17.0 version. For CPU managem
 ---------------------------------------------------------------------------------------------------
 C  (C language)        |   maipule memory + rust                                                   |
 ---------------------------------------------------------------------------------------------------
+Odin                   |   easy low level                                                          |
+---------------------------------------------------------------------------------------------------
+Forth                  |   Organization codes                                                      |
+---------------------------------------------------------------------------------------------------
+Verilog                |   For arm and FPGA and o hate this sinxtase                               |
+---------------------------------------------------------------------------------------------------
 
 # What is the usefulness
 
@@ -54,7 +60,57 @@ C  (C language)        |   maipule memory + rust                                
 
 **old devs and new devs**
 
+i ban this languages in this repository
+
+JavaScript (yes have a compatible but it's for hackers no for my repo)
+
+CSS (yes have a compatible but it's for hackers no for my repo)
+
+Python (Big language it's horrible)
+
+HTML (yes have a compatible but it's for hackers no for my repo)
+
+TypeScript (have a JavaScript why TypeScript? (yes have a compatible but it's for hackers no for my repo))
+
+Java (yes have a compatible but it's for hackers no for my repo)
+
+Mojo (it's a second Python)
+
+COBOL (yes have a Assembly but not COBOL)
+
+Machine Learning (IA? It's not for me)
+
+C# (Microsoft dominance and a "New Java")
+
+C++ (it's horrible is so hard)
+
+Delphi (nobody uses)
+
+Scala and Kotlin (it's a second Java)
+
+Pawn (nobody use in day)
+
+Ruby (it's a very hight level)
+
+PHP (for web and this language have horrible sintax)
+
+Swift (it's not a open source)
+
+Dart (have a golang for automation)
+
+Lua (it's a very hight level)
+
+Erlang/Elixir (he's have a BEAM is a virtual machine)
+
+Haskell (Garbage Collector)
+
+Clojure (run in JVM)
+
+Objective-C (nobody uses AND no open source)
+
+MATLAB (no have a open source and devs have this)
 
 # LICENSE
 
 **the LICENSE it's a APACHE**
+**DCrust** it's a creator
