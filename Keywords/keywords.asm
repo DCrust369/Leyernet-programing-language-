@@ -19,7 +19,7 @@ _start
     lea rax, [volatile]
     lea rax, [loop]
     lea rax, [break]
-    lea rax, [global]
+    lea rax, [globax]
     lea rax, [interna]
     lea rax, [fn]
     lea rax, [main]
