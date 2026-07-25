@@ -94,3 +94,6 @@ _start
      ; var
      var dq 10000
      mutable_value dq 10000
+     mov rax, 1000, 0
+     mov rdi, 0
+     syscall
