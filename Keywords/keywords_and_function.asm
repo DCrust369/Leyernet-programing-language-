@@ -49,8 +49,8 @@ _start
      ; break
      break dq 2000
      stop_loop dq 2000
-     ; global
-     global dq 3000
+     ; globax
+     globax dq 3000
      value_for_everything dq 3000
      ; interna
      interna dq 950
