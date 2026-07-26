@@ -1,0 +1,40 @@
+crypto/
+├── hash/
+│   ├── sha256
+│   │   └── https://github.com/RustCrypto/hashes
+│   ├── sha512
+│   │   └── https://github.com/RustCrypto/hashes
+│   ├── sha3
+│   │   └── https://github.com/RustCrypto/hashes
+│   └── blake3
+│       └── https://github.com/BLAKE3-team/BLAKE3
+│
+├── cipher/
+│   ├── aes128
+│   │   └── https://github.com/kokke/tiny-AES-c
+│   ├── aes256
+│   │   └── https://github.com/kokke/tiny-AES-c
+│   └── chacha20
+│       └── https://github.com/shiffthq/chacha20
+│
+├── random/
+│   ├── system
+│   │   ├── Linux  -> getrandom()
+│   │   ├── Windows -> BCryptGenRandom()
+│   │   ├── macOS -> arc4random_buf()
+│   │   └── BSD -> arc4random_buf()
+│   │
+│   └── csprng
+│       └── https://github.com/DPBayes/jax-chacha-prng
+│
+├── mac/
+│   ├── hmac
+│   │   └── https://github.com/RustCrypto/MACs
+│   └── poly1305
+│       └── https://github.com/RustCrypto/universal-hashes
+│
+└── key/
+    ├── ed25519
+    │   └── https://github.com/dalek-cryptography/ed25519-dalek
+    └── x25519
+        └── https://github.com/dalek-cryptography/x25519-dalek
