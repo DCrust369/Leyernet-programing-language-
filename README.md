@@ -59,56 +59,82 @@ Verilog                |   For arm and FPGA and o hate this sinxtase            
 **modern low level**
 
 **old devs and new devs**
+Leyernet Design Guidelines
 
-i ban this languages in this repository
+JavaScript
+- Compatibility layer only.
+- Not intended for general Leyernet development.
 
-JavaScript (yes have a compatible but it's for hackers no for my repo)
+CSS
+- Compatibility layer only.
+- Not intended for general Leyernet development.
 
-CSS (yes have a compatible but it's for hackers no for my repo)
+Python
+- Not a design inspiration.
+- Prefer native compilation and static typing.
 
-Python (Big language it's horrible)
+HTML
+- Compatibility layer only.
 
-HTML (yes have a compatible but it's for hackers no for my repo)
+TypeScript
+- JavaScript compatibility is sufficient.
 
-TypeScript (have a JavaScript why TypeScript? (yes have a compatible but it's for hackers no for my repo))
+Java
+- Not a design inspiration.
 
-Java (yes have a compatible but it's for hackers no for my repo)
+Mojo
+- No influence planned.
 
-Mojo (it's a second Python)
+COBOL
+- No influence planned.
 
-COBOL (yes have a Assembly but not COBOL)
+Machine Learning
+- Not a core goal of the language.
 
-Machine Learning (IA? It's not for me)
+C#
+- No influence planned.
 
-C# (Microsoft dominance and a "New Java")
+C++
+- Avoid unnecessary language complexity.
 
-C++ (it's horrible is so hard)
+Delphi
+- No influence planned.
 
-Delphi (nobody uses)
+Scala / Kotlin
+- No influence planned.
 
-Scala and Kotlin (it's a second Java)
+Pawn
+- No influence planned.
 
-Pawn (nobody use in day)
+Ruby
+- Avoid highly dynamic language features.
 
-Ruby (it's a very hight level)
+PHP
+- Web-specific features are not a core goal.
 
-PHP (for web and this language have horrible sintax)
+Swift
+- No influence planned.
 
-Swift (it's not a open source)
+Dart
+- No influence planned.
 
-Dart (have a golang for automation)
+Lua
+- Not a design inspiration.
 
-Lua (it's a very hight level)
+Erlang / Elixir
+- Avoid dependence on a virtual machine.
 
-Erlang/Elixir (he's have a BEAM is a virtual machine)
+Haskell
+- Functional programming is not a primary goal.
 
-Haskell (Garbage Collector)
+Clojure
+- Avoid dependence on the JVM.
 
-Clojure (run in JVM)
+Objective-C
+- No influence planned.
 
-Objective-C (nobody uses AND no open source)
-
-MATLAB (no have a open source and devs have this)
+MATLAB
+- No influence planned.
 
 # LICENSE
 
