@@ -1,8 +1,6 @@
 pub fn (main) !void {
     .const section[.data],
     .const __global_start,
-// this is a brazilian MEME it's a saboor assembly não é assembly é saboor assembly
-// it's a flaaaavour assembly (assembly simulated!!!)
     .const __start,
     asm {
         \\\\ mov %rax, %[0]
